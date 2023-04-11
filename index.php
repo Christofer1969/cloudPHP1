@@ -1,3 +1,5 @@
 <?php
 
-echo "hello guysss";
+echo "nama : Christofer";
+echo "NIM : 52020001";
+echo "Teknik Informatika";
